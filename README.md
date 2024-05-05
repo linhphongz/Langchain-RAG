@@ -1,9 +1,9 @@
 ### Langchain-RAG
 🔗 Link model : https://huggingface.co/vilm/vinallama-7b-chat-GGUF
 # Note : 
--Faiss : a Python library that provides developers with a fast and efficient means of finding similar embeddings, as opposed to conventional hash-based approaches.
--Langchain: a framework written in Python and JavaScript, it provides tools to manipulate and build applications based on LLMs.
--Hugging Face: Huggingface is a company that provides tools and AI models to help developers build AI applications.
+-Faiss : a Python library that provides developers with a fast and efficient means of finding similar embeddings, as opposed to conventional hash-based approaches. \
+-Langchain: a framework written in Python and JavaScript, it provides tools to manipulate and build applications based on LLMs. \
+-Hugging Face: Huggingface is a company that provides tools and AI models to help developers build AI applications. \
 -RAG( Retrieval Augmented Generation ) :
 # How to setup all necessary libs : 
 In terminal window : pip install -r setup.txt
