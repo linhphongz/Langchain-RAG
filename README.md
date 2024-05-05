@@ -5,4 +5,4 @@
 In terminal window : pip install -r setup.txt
 
 #How to create vector database :
-- a
+- 1
