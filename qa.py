@@ -4,7 +4,7 @@ from langchain.prompts import PromptTemplate
 from langchain_community.embeddings import GPT4AllEmbeddings
 from langchain_community.vectorstores import FAISS
 
-model_file = "models/vinallama-7b-chat_q5_0.gguf"
+model_file = r"./vinallama-7b-chat_q5_0.gguf"
 vector_db_path = "vectorstores/db_faiss"
 
 # Load LLM
